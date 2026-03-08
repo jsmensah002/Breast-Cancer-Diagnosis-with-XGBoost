@@ -4,9 +4,9 @@ Brief Overview:
 Model: XGBoost Classifier
 
 Results:
-- Train Score: 1.0 
-- Test Score: 0.9737
-- Recall: 0.9535 || Precision: 0.9762 || Accuracy: 0.9737
+- Train Score: 1.000 
+- Test Score: 0.974
+- Recall: 0.970 || Precision: 0.970 || Accuracy: 0.970
 - Confusion Matrix: 70 True Negatives, 41 True Positives, 1 False Positive, 2 False Negatives
 
 Key Insight:
